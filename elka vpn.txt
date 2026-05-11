@@ -4,9 +4,3 @@
 #support-url: https://t.me/GLelkavpn_bot
 #profile-web-page-url: https://t.me/GLelkavpn_bot
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-
- @vpnelkabot.
-#profile-update-interval: 1
-#support-url: https://t.me/GLelkavpn_bot
-#profile-web-page-url: https://t.me/GLelkavpn_bot
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
